@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DevProfile" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/niceDarkGrayColor</item>
+        <item name="colorPrimaryDark">@color/niceDarkGrayColor</item>
+        <item name="colorAccent">@color/niceDarkGrayColor</item>
+    </style>
+</resources>
